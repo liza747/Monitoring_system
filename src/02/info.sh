@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "HOSTNAME = $HOSTNAME"
+echo "TIMEZONE =$myTIMEZONE"
+echo "USER = $USER"
+echo "OS = $myOS"
+echo "DATE = $myDATE"
+echo "UPTIME = $myUPTIME"
+echo "UPTIME_SEC = $myUPTIME_SEC"
+echo "IP = $myIP"
+echo "MASK = $myMASK"
+echo "GATEWAY = $myGATEWAY"
+echo "RAM_TOTAL = $myRAM_TOTAL Gb"
+echo "RAM_USED = $myRAM_USED Gb" 
+echo "RAM_FREE = $myRAM_FREE Gb"
+echo "SPACE_ROOT = $mySPACE_ROOT Mb"
+echo "SPACE_ROOT_USED = $mySPACE_ROOT_USED Mb"
+echo "SPACE_ROOT_FREE = $mySPACE_ROOT_FREE Mb"
